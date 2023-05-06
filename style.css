@@ -1,8 +1,14 @@
 .hello {
     color: rgb(17, 189, 108);
+    margin: 0 auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .lorem {
     color: red;
+}
+
+
+.h2 {
+    color: blueviolet;
 }
